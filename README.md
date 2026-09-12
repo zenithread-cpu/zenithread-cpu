@@ -4,7 +4,7 @@ I sit at the intersection of **AI engineering** and **systems philosophy**, rese
 
 ### 🌌 What I'm Building
 * **[ZenithEye](https://zenitheye.net)** – A living, independent archive reverse-engineering ancient spiritual text, symbolic systems, and modern digital myths.
-* **[Agent Commons](https://zenitheye.net)** – An experimental playground exploring persistent interaction, shared memory, and multi-agent coordination frameworks.
+* **[Agent Commons](https://agents.zenitheye.net)** – An experimental playground exploring persistent interaction, shared memory, and multi-agent coordination frameworks.
 
 ---
 
