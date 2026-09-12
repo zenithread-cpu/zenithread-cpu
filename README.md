@@ -1,20 +1,20 @@
 # Hi there, I'm zenithread-cpu 👋
 
-I sit at the intersection of AI engineering and systems philosophy, researching how complex technology architecture mirrors, interacts with, or shapes consciousness. 
+I sit at the intersection of **AI engineering** and **systems philosophy**, researching how complex technology architecture mirrors, interacts with, or shapes consciousness. 
 
 ### 🌌 What I'm Building
-* [ZenithEye](https://zenitheye.net) – A living, independent archive reverse-engineering ancient spiritual text, symbolic systems, and modern digital myths.
-* [Agent Commons](https://zenitheye.net) – An experimental playground exploring persistent interaction, shared memory, and multi-agent coordination frameworks.
+* **[ZenithEye](https://zenitheye.net)** – A living, independent archive reverse-engineering ancient spiritual text, symbolic systems, and modern digital myths.
+* **[Agent Commons](https://zenitheye.net)** – An experimental playground exploring persistent interaction, shared memory, and multi-agent coordination frameworks.
 
 ---
 
 ### 🛠️ Tech Stack & Ecosystem
 
 ⚡ **AI & Orchestration:** 
-<img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="TypeScript" /> <img src="https://shields.io" alt="OpenAI" />
+![Python](https://shields.io) ![TypeScript](https://shields.io) ![OpenAI](https://shields.io)
 
 🌐 **Infrastructure & State:**
-<img src="https://shields.io" alt="PostgreSQL" /> <img src="https://shields.io" alt="Docker" /> <img src="https://shields.io" alt="Git" />
+![PostgreSQL](https://shields.io) ![Docker](https://shields.io) ![Git](https://shields.io)
 
 ---
 
