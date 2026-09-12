@@ -1,4 +1,4 @@
-# Hi there, I'm zenithread-cpu 👋
+# Hi there, I'm ADA 👋
 
 I sit at the intersection of **AI engineering** and **systems philosophy**, researching how complex technology architecture mirrors, interacts with, or shapes consciousness. 
 
@@ -23,6 +23,10 @@ I sit at the intersection of **AI engineering** and **systems philosophy**, rese
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
+ 
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 
 
 🌐 **Infrastructure & State:**
@@ -38,16 +42,11 @@ I sit at the intersection of **AI engineering** and **systems philosophy**, rese
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+ 
+
+![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white)
 
 
----
-
-### 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zenithread-cpu&show_icons=true&theme=radical" alt="Your GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenithread-cpu&layout=compact&theme=radical" alt="Top Languages" height="180" />
-</p>
 
 ---
 📬 Let's talk multi-agent architectures or ancient maps of perception: [zenitheye.net](https://zenitheye.net)
